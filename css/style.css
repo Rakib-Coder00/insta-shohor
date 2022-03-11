@@ -245,6 +245,25 @@ img {
   display: none;
 }
 
+.question{
+  margin-top: 35px;
+}
+.question .content{
+  margin-top: 35px;
+  /* text-align: center; */
+  line-height: 41px;
+}
+/* .question h3, .question p{
+  text-align: center;
+} */
+
+
+
+
+
+
+
+
 @media only screen and (max-width: 992px) {
   #posts {
     grid-template-columns: repeat(2, 1fr);
